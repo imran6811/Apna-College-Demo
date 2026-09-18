@@ -1,4 +1,4 @@
 # Apna-College-Demo
 Just a repo
 
-Author : Imran
+Author : Imran Ansari
